@@ -1,5 +1,4 @@
 # HandwrittenTextRecognitionUsingOpencvandTesseract
-# HandwrittenTextRecognitionUsingOpencvandTesseract
 
 ## Overview
 This project focuses on recognizing handwritten text using OpenCV and Tesseract OCR. It processes images of handwritten text and converts them into machine-readable text. The main goal is to automate the extraction of text from scanned documents, notes, and other handwritten content.
